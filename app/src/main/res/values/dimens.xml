@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap">10dp</dimen>
+
+    <dimen name="item">50dp</dimen>
+    <dimen name="item_id">25sp</dimen>
+    <dimen name="item_breed">25sp</dimen>
+    <dimen name="item_nickname">25sp</dimen>
+    <dimen name="item_host">25sp</dimen>
+    <dimen name="item_address">25sp</dimen>
+
+    <dimen name="recyclerView">16dp</dimen>
+</resources>
